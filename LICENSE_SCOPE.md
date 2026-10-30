@@ -20,7 +20,7 @@ Anyone is free to use, copy, modify, merge, publish, distribute, or sublicense t
 The [MIT License](LICENSE) **DOES NOT** grant permission, license, or rights to any of the following assets, whether stored in this repository or distributed via third-party platforms:
 
 * **Audio Masters & Commercial Recordings**: Composed, produced, mixed, and mastered audio files distributed via streaming platforms (Apple Music, Spotify, YouTube Music, TuneCore, etc.). All commercial audio rights remain fully reserved by Strategist Kongming Establishment Preparation Office.
-* **Logos, Badges, and Crests**: The `#TheLovePreservedFoodProject` official badge, visual emblems, and associated graphic files (e.g., `01.jpg`, `TheLovePreservedFoodProject.png`). Usage of these visual assets is governed strictly by [`TRADEMARKS.md`](TRADEMARKS.md).
+* **Logos, Badges, and Crests**: The `#TheLovePreservedFoodProject` official badge, visual emblems, and associated graphic files (e.g., [`TheLovePreservedFoodProject_MUSIC.png`](./TheLovePreservedFoodProject_MUSIC.png)). Usage of these visual assets is governed strictly by [`TRADEMARKS.md`](TRADEMARKS.md).
 * **Trademarks & Brand Names**: The names "Strategist Kongming", "合同会社軍師孔明 設立準備室", "Strategist Kongming Establishment Preparation Office", "Huang Yueying", "HuangYueying", "Gogo Daichi", "AMAP", "MUSIC OS", "AMAP MUSIC OS", "Sound OS", "Aisa Iera Rhesis", and "#TheLovePreservedFoodProject".
 * **Cover Artwork & Visual Media**: Album artwork, promotional graphics, and video files.
 
