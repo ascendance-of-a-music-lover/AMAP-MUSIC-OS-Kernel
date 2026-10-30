@@ -10,7 +10,7 @@ Aisa Iera Rhesis (Αἶσα Ἱερά Ῥῆσις) — Global Stateless MUSIC O
 **Tuning Standard:**  
 A = 432Hz (Mathematical Counterpoint & Neuro-Acoustic Architecture)  
 **License:**  
-MIT Open-Source License (for ABC Notation Scores & Musical Structures)
+MIT Open-Source License (see [`LICENSE`](./LICENSE) and [`LICENSE_SCOPE.md`](./LICENSE_SCOPE.md))
 
 ---
 
@@ -26,7 +26,7 @@ Before installing a new cognitive and emotional operating system, one must first
 
 ## 🎼 The 4 Movements (ABC Notation Architecture)
 
-All four tracks are transcribed in standard **ABC Notation (`.abc`)** at concert pitch (`A = 432Hz`), enabling ultra-lightweight distribution (approx. 3–4 KB per track), complete transparency for AI/human analysis, and unrestricted User-Generated Content (UGC), arrangements, and forks.
+All four tracks are transcribed in standard **ABC Notation (`.abc`)** at concert pitch (`A = 432Hz`), enabling ultra-lightweight distribution, complete transparency for AI/human analysis, and unrestricted User-Generated Content (UGC), arrangements, and forks.
 
 | Track | File Name | Official Title | Key / Time / Tempo | Instrumentation & Cognitive Role |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,13 +45,21 @@ All four tracks are transcribed in standard **ABC Notation (`.abc`)** at concert
   [@The_Air_of_you](https://www.youtube.com/@The_Air_of_you)
 * 💻 **Chapter I Repository (AMAP-Sound-OS-Kernel):**  
   [`ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel`](https://github.com/ascendance-of-a-music-lover/AMAP-Sound-OS-Kernel)
+* ✉️ **Official Contact & Verification Desk:**  
+  [https://x.gd/MUSIC_OS](https://x.gd/MUSIC_OS)
 
 ---
 
-## 🤝 Open-Source Philosophy & UGC Invitation
+## ⚖️ Governance, Licensing & Legal Documentation
 
-We believe that hoarding intellectual property is fragile, whereas sharing makes humanity antifragile. Just like water and air, these musical blueprints belong to the global commons.
+Please review the following official governance files included in this repository before using or redistributing any materials:
 
-Feel free to **Fork** this repository, load the `.abc` files into your favorite notation software or synthesizer, arrange them for your own instruments, and share your creations with the world!
+* [**`DISCLAIMER.md`**](./DISCLAIMER.md) — Non-Clinical & Artistic Choice Notice, Institutional Independence Disclaimer, and AI-Generated Content Disclosures.
+* [**`LICENSE`**](./LICENSE) — MIT Open-Source License text.
+* [**`LICENSE_SCOPE.md`**](./LICENSE_SCOPE.md) — Boundary definitions between Open-Source ABC Notation Scores (MIT) and Commercial Master Audio Recordings (All Rights Reserved).
+* [**`MEDIA_AND_ARTWORK_POLICY.md`**](./MEDIA_AND_ARTWORK_POLICY.md) — Usage policies for project visual assets and artwork.
+* [**`TRADEMARKS.md`**](./TRADEMARKS.md) — Trademark and brand identity guidelines.
+
+---
 
 *“Sono come l'aria per te, Ciao!”*
