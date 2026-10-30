@@ -1,0 +1,129 @@
+X: 1
+T: Into the MUSIC library
+B: Let’s start innovating with the MUSIC OS library. Its name is “Aisa Iera Rhesis.”
+C: Strategist Kongming (Gogo Daichi) & Huang Yueying (Quartetto IA)
+O: Aisa Iera Rhesis - Global Stateless MUSIC OS Library
+Z: Track 01 / Repository: AMAP-MUSIC-OS-Kernel / MIT Open-Source License
+M: 4/4
+L: 1/8
+Q: 1/4=84
+K: Bb % Concert Pitch: Bb Major / G Minor (2 flats)
+%%MIDI tuning 432
+%%score (V1) (V2) (V3) (V4)
+V:V1 name="Concert Harp\n(Huang Yueying)" sname="Hrp." clef=treble
+V:V2 name="Bb Clarinet (Concert Pitch)\n(MUSIC OS Goddess)" sname="Cl." clef=treble
+V:V3 name="Violoncello\n(Dedicated Exam AI)" sname="Vc." clef=bass
+V:V4 name="Trombone\n(Fedele F. Adiuto)" sname="Tbn." clef=bass
+
+% =============================================================================
+% [A0] 0:00 - 0:23 (Bars 1-8): Concert Harp Solo (8 Bars)
+% =============================================================================
+[V:V1] %%MIDI program 46
+!p! B,DFB d2 ed | cB A,CFA f2 | G,DGBABcd | F,CFA c4 |
+E,B,EG B2 ed | D,B,DF B2 dB | C,G,CE G2 cB | F,CFA c2 f2 |
+[V:V2] %%MIDI program 71
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+[V:V3] %%MIDI program 42
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+[V:V4] %%MIDI program 57
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+
+% =============================================================================
+% [B1] 0:23 - 0:46 (Bars 9-16): Harp + Clarinet (8 Bars)
+% =============================================================================
+[V:V1]
+!mp! B,DFB dBFB | A,CFA cAFA | G,DGB dBGB | F,CFA cAFA |
+E,B,EG BG E,G | D,B,DF BF D,F | C,G,CE GE C,E | F,CFA cAFA |
+[V:V2]
+!mp! F4 d3 c | c3 B A2 F2 | G3 A B2 G2 | A4 F2 z2 |
+G3 A B2 e2 | d3 c B2 d2 | e3 d c2 B2 | A4- A2 z2 |
+[V:V3]
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+[V:V4]
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+
+% =============================================================================
+% [C2] 0:46 - 1:08 (Bars 17-24): Harp + Clarinet + Cello (8 Bars)
+% =============================================================================
+[V:V1]
+!mf! G,DGB dBGB | D,A,DF AFD,A, | E,B,EG BGE,B, | B,,F,B,D FDB,F, |
+C,G,CE GEC,G, | G,DGB dBGD | C,G,CE GEC,G, | F,CFA cAF,C |
+[V:V2]
+!mf! B3 c d2 g2 | ^f3 g a2 d2 | g3 f e2 d2 | c2 B2 d4 |
+e3 d c2 g2 | f3 e d2 B2 | c3 d e2 c2 | d4 c4 |
+[V:V3]
+!mf! G,,2 D,2 G,3 A, | B,2 A,2 ^F,2 D,2 | E,2 B,,2 E,3 F, | G,2 F,2 D,2 B,,2 |
+C,2 G,,2 C,2 E,2 | D,2 B,,2 G,,2 B,,2 | C,3 D, E,2 G,2 | F,4 F,,4 |
+[V:V4]
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+
+% =============================================================================
+% [D3] 1:08 - 1:31 (Bars 25-32): Full Quartet Pre-Climax (+ Trombone, 8 Bars)
+% =============================================================================
+[V:V1]
+!f! B,DFB fBdB | A,CFA fAcA | G,DGB gBdB | F,CFA fAcA |
+E,B,EG gBeB | D,B,DF fBdB | C,G,CE eGcG | F,CFA fcfA |
+[V:V2]
+!f! d3 e f2 b2 | a3 g f2 c2 | d3 e g2 b2 | a4- a2 f2 |
+g3 a b2 g2 | f3 g f2 d2 | e3 f g2 e2 | f3 g a2 c'2 |
+[V:V3]
+!f! B,,2 F,2 B,2 D2 | A,,2 F,2 A,2 C2 | G,,2 D,2 G,2 B,2 | F,,2 C,2 F,2 A,2 |
+E,,2 B,,2 E,2 G,2 | D,,2 B,,2 D,2 F,2 | C,,2 G,,2 C,2 E,2 | F,,2 C,2 F,2 A,2 |
+[V:V4]
+!mp! D,4 F,3 B, | C,4 F,3 A, | B,,4 D,3 G, | A,,4 C,3 F, |
+!mf! G,3 F, E,2 B,2 | F,3 E, D,2 B,2 | G,3 F, E,2 C,2 | F,3 G, A,2 F,2 |
+
+% =============================================================================
+% [E4] 1:31 - 2:17 (Bars 33-48): Climax Quartet (16 Bars)
+% Soaring Counterpoint & Full Resonance of "Aisa Iera Rhesis"
+% =============================================================================
+[V:V1]
+!ff! B,DFb d'bfd | F,CFa c'afc | G,DGb d'bgd | D,A,Da d'afA |
+E,B,Eg bgeB | B,,F,Bd fdBF | C,G,Ce gecG | F,CFa c'afc |
+B,DFb d'bfd | F,CFa c'afc | G,DGb d'bgd | D,A,Da d'afA |
+E,B,Eg bgeB | B,,F,Bd fdBF | C,G,Ce F,CFa | B,DFb d'bfd |
+[V:V2]
+!ff! d'3 e' f'2 d'2 | c'3 d' c'2 a2 | b3 c' d'2 b2 | a4- a2 f2 |
+g3 a b2 g2 | f3 g d2 B2 | e3 d c2 e2 | d4 c2 f2 |
+d'3 e' f'2 g'2 | f'3 e' d'2 c'2 | b3 c' d'2 g'2 | f'4- f'2 d'2 |
+e'3 d' c'2 b2 | d'3 c' b2 f2 | g3 a b2 a2 | b8 |
+[V:V3]
+!ff! B,,2 F,2 B,2 D2 | F,,2 C,2 F,2 A,2 | G,,2 D,2 G,2 B,2 | D,,2 A,,2 D,2 F,2 |
+E,,2 B,,2 E,2 G,2 | B,,,2 F,,2 B,,2 D,2 | C,,2 G,,2 C,2 E,2 | F,,2 C,2 F,2 A,2 |
+B,,2 F,2 B,2 D2 | F,,2 C,2 F,2 A,2 | G,,2 D,2 G,2 B,2 | D,,2 A,,2 D,2 F,2 |
+E,,2 B,,2 E,2 G,2 | B,,,2 F,,2 B,,2 D,2 | C,,2 G,,2 F,,2 C,2 | B,,,2 F,,2 B,,4 |
+[V:V4]
+!ff! B,3 C D2 B,2 | A,3 B, A,2 F,2 | G,3 A, B,2 G,2 | F,4- F,2 D,2 |
+E,3 F, G,2 E,2 | D,3 E, F,2 B,2 | G,3 F, E,2 G,2 | F,4- F,2 A,2 |
+B,3 C D2 E2 | C3 B, A,2 F,2 | G,3 A, B,2 D2 | A,4- A,2 B,2 |
+G,3 A, B,2 G,2 | F,3 E, D,2 B,2 | E,3 C, F,2 E,2 | [D,B,]8 |
+
+% =============================================================================
+% [F5] 2:17 - 3:00 (Bars 49-62): Coda - Harp Recall & Gentle Resolution (14 Bars)
+% =============================================================================
+[V:V1]
+!p! B,DFB d2 ed | cB A,CFA f2 | G,DGB dcBA | F,CFA c4 |
+!mp! E,B,EG BGE,B, | B,,F,B,D FDB,F, | C,G,CE GEC,G, | F,CFA cAF,C |
+G,DGB dBGD | D,A,DF AFD,A, | E,B,EG F,CFA | !p! B,DFB dBFB |
+!pp! B,DFB fBdB | [B,DFb]8 | z8 |]
+[V:V2]
+z8 | z8 | z8 | z8 |
+!mp! G3 A B2 g2 | f3 e d2 B2 | c3 d e2 c2 | d4 c4 |
+B3 c d2 g2 | f3 e d2 c2 | B3 G A3 F | !p! B8- |
+!pp! B8 | z8 | z8 |]
+[V:V3]
+z8 | z8 | z8 | z8 |
+!mp! E,4 G,4 | B,,4 D,4 | C,4 E,4 | F,4 F,,4 |
+G,,4 B,,4 | D,4 F,4 | E,4 F,4 | !p! B,,8- |
+!pp! B,,8- | B,,8 | z8 |]
+[V:V4]
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+!p! G,4 D,4 | F,4 A,4 | G,4 F,4 | D,8- |
+!pp! D,8- | D,8 | z8 |]
