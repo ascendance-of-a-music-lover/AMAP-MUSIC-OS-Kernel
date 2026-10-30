@@ -59,7 +59,12 @@ Please review the following official governance files included in this repositor
 * [**`LICENSE_SCOPE.md`**](./LICENSE_SCOPE.md) — Boundary definitions between Open-Source ABC Notation Scores (MIT) and Commercial Master Audio Recordings (All Rights Reserved).
 * [**`MEDIA_AND_ARTWORK_POLICY.md`**](./MEDIA_AND_ARTWORK_POLICY.md) — Usage policies for project visual assets and artwork.
 * [**`TRADEMARKS.md`**](./TRADEMARKS.md) — Trademark and brand identity guidelines.
+* [**`TheLovePreservedFoodProject_MUSIC.png`**](./TheLovePreservedFoodProject_MUSIC.png) — Official `#TheLovePreservedFoodProject` / Open-Source Anti-fragile MUSIC OS Protocol Emblem.
 
 ---
+
+<p align="center">
+  <img src="./TheLovePreservedFoodProject_MUSIC.png" alt="Open-Source Anti-fragile MUSIC OS Protocol Official Emblem" width="480">
+</p>
 
 *“Sono come l'aria per te, Ciao!”*
