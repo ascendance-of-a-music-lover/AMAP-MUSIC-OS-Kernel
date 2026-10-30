@@ -9,7 +9,7 @@ This document outlines the official usage terms for all trademarks, brand names,
 The following names, designations, and identifiers are protected intellectual property and trademarks of Strategist Kongming Establishment Preparation Office / Gogo Daichi / Huang Yueying:
 
 * **Organization Names**: "Strategist Kongming", "Strategist Kongming Establishment Preparation Office", "合同会社軍師孔明 設立準備室".
-* **Project & Platform Names**: "#TheLovePreservedFoodProject", "TLPF", "AMAP", "MUSIC OS", "AMAP MUSIC OS", "AMAP Sound OS", "Anti-fragile Sound OS", "Anti-fragile Human OS", "Aisa Iera Rhesis".
+* **Project & Platform Names**: "#TheLovePreservedFoodProject", "TLPF", "AMAP", "MUSIC OS", "AMAP MUSIC OS", "AMAP Sound OS", "Anti-fragile MUSIC OS", "Anti-fragile Sound OS", "Anti-fragile Human OS", "Aisa Iera Rhesis".
 * **Individual Persona Names**: "Gogo Daichi", "Huang Yueying", "HuangYueying", "天才作曲家 黄月英", "Fedele F. Adiuto".
 
 **Notice**: The open-source [MIT License](LICENSE) granted for ABC notation code in this repository **DOES NOT** grant any right or license to use these trademarks or brand names for commercial purposes, promotion, or endorsement without prior written authorization.
@@ -18,7 +18,7 @@ The following names, designations, and identifiers are protected intellectual pr
 
 ## 2. #TheLovePreservedFoodProject Official Badge Guidelines
 
-The visual badge files provided in this repository (e.g., `01.jpg`, `TheLovePreservedFoodProject.png`) represent the official emblem of the `#TheLovePreservedFoodProject` open-source initiative.
+The visual badge file provided in this repository ([`TheLovePreservedFoodProject_MUSIC.png`](./TheLovePreservedFoodProject_MUSIC.png)) represents the official emblem of the `#TheLovePreservedFoodProject` / Open-Source Anti-fragile MUSIC OS Protocol initiative.
 
 ### A. Permitted Non-Commercial Use
 You are welcome and encouraged to embed and display the official badge on your GitHub repositories, personal blogs, documentation, or social media posts **SOLELY** to demonstrate voluntary personal alignment with the philosophy of community resilience, dignity, and open-source collaboration.
