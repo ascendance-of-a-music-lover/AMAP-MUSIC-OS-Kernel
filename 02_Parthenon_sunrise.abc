@@ -1,0 +1,148 @@
+X: 2
+T: Parthenōn sunrise
+B: Let’s start innovating with the MUSIC OS library. Its name is “Aisa Iera Rhesis.”
+C: Strategist Kongming (Gogo Daichi) & Huang Yueying
+O: Aisa Iera Rhesis - Global Stateless MUSIC OS Library
+Z: Track 02 / Repository: AMAP-MUSIC-OS-Kernel / Dedicated to Athena's Wisdom (432 BC - 432 Hz) / MIT License
+M: 4/4
+L: 1/8
+Q: 1/4=76
+K: Bb % Concert Pitch: Bb Major / G Minor (2 flats)
+%%MIDI tuning 432
+%%score (V1) (V2) (V3) (V4)
+V:V1 name="Flute / Violin I & Choir\n(MUSIC OS Goddess)" sname="Fl./Vln." clef=treble
+V:V2 name="Oboe / Bb Clarinet\n(Quartetto IA Lead)" sname="Ob./Cl." clef=treble
+V:V3 name="Concert Harp\n(Huang Yueying)" sname="Hrp." clef=treble
+V:V4 name="Cello / Brass & Choir Bass\n(Fedele & Exam AI)" sname="Vc./Br." clef=bass
+
+% =============================================================================
+% [Intro] 0:00 - 0:19 (Bars 1-6): Dawn Glissandi & Oboe Invocation (Q: 1/4=76)
+% =============================================================================
+[V:V1] %%MIDI program 73
+z8 | z8 | z8 | z4 !mp! f2 g2 |
+a3 g f2 d2 | c4 B4 |
+[V:V2] %%MIDI program 68
+z8 | z8 | !mp! d3 B c2 d2 | f2 ed c2 d2 |
+e3 d c2 B2 | A4 B4 |
+[V:V3] %%MIDI program 46
+!p! (3B,DF (3Bdf (3bfd' (3f'd'b | (3F,CF (3Acf (3ac'f' (3c'af |
+G,DGB dBGD | F,CFA cAFC | E,B,EG BGEB, | B,,F,B,D [B,DFB]4 |
+[V:V4] %%MIDI program 42
+!pp! B,,,8- | B,,,8 | G,,8 | F,,8 |
+E,,8 | B,,,4 B,,4 |
+
+% =============================================================================
+% [Section A] 0:19 - 1:04 (Bars 7-26): Chamber Allegro - Clarinet & Harp (Q: 1/4=104)
+% =============================================================================
+[V:V1] [Q: 1/4=104]
+z8 | z8 | z8 | z8 |
+z8 | z8 | z8 | z8 |
+!mf! d'3 b c'2 d'2 | f'2 e'd' c'2 b2 | a3 g f2 e2 | d2 cB c4 |
+% 0:48 (Bars 19-26): Sparkling 16th-Note Woodwind Dialogue
+!f! d'c'ba bagf | gfed cBAG | FGAB cdef | gabc' d'2 c'2 |
+b2 d'b a2 c'a | g2 bg f2 d2 | e2 ge d2 B2 | cde^f g2 a2 |
+[V:V2] %%MIDI program 71
+!mp! d3 B c2 d2 | f2 ed c2 B2 | G3 A B2 c2 | d2 cB A2 F2 |
+d3 B c2 d2 | g2 fe d2 c2 | B3 c d2 B2 | c3 B B4 |
+!mf! B3 G A2 B2 | d2 cB A2 G2 | F3 E D2 C2 | B,2 D2 F4 |
+% 0:48 (Bars 19-26): Clarinet Virtuoso Counterpoint
+!f! Bcde fedc | BAGF EDCB, | A,B,CD EFGA | Bcde f2 e2 |
+d2 fd c2 ec | B2 dB A2 F2 | G2 BG F2 D2 | EFGA B2 c2 |
+[V:V3]
+!mp! B,DFB dBFB | F,CFA cAFA | G,DGB dBGB | D,A,DF AFDF |
+E,B,EG BGEG | B,,F,B,D FDB,D | C,G,CE GECE | F,CFA B,DFB |
+G,DGB dBGB | F,CFA cAFA | E,B,EG BGEG | F,CFA cAFA |
+!mf! B,DFB dBFB | G,DGB dBGB | F,CFA cAFA | B,DFB dBFB |
+G,DGB F,CFA | E,B,EG D,B,DF | C,G,CE B,,F,B,D | C,G,CE F,CFA |
+[V:V4]
+!p! B,,2 z2 F,,2 z2 | F,,2 z2 C,2 z2 | G,,2 z2 D,2 z2 | D,,2 z2 A,,2 z2 |
+E,,2 z2 B,,2 z2 | B,,,2 z2 F,,2 z2 | C,,2 z2 G,,2 z2 | F,,2 F,2 B,,2 z2 |
+G,,2 D,2 G,2 D,2 | F,,2 C,2 F,2 C,2 | E,,2 B,,2 E,2 B,,2 | F,,2 C,2 F,2 A,2 |
+!mf! B,,2 F,2 B,2 F,2 | G,,2 D,2 G,2 D,2 | F,,2 C,2 F,2 A,2 | B,,2 F,2 B,2 A,2 |
+G,2 z2 F,2 z2 | E,2 z2 D,2 z2 | C,2 z2 B,,2 z2 | C,2 E,2 F,2 F,,2 |
+
+% =============================================================================
+% [Section B] 1:04 - 1:40 (Bars 27-42): First Symphonic Tutti (Q: 1/4=108)
+% Strings, Brass & Percussion Erupt in Grand Neoclassical Majesty
+% =============================================================================
+[V:V1] [Q: 1/4=108] %%MIDI program 48
+!ff! d'3 b c'2 d'2 | f'2 e'd' c'2 d'2 | g'3 f' e'2 d'2 | c'3 d' c'2 a2 |
+b3 c' d'2 f'2 | g'2 f'e' d'2 c'2 | b3 a g2 f2 | g4 f4 |
+d'3 e' f'2 g'2 | a'2 g'f' d'2 f'2 | g'3 f' e'2 d'2 | c'2 d'e' f'4 |
+g'3 f' e'2 d'2 | f'3 e' d'2 b2 | c'3 d' e'2 c'2 | b6 z2 |
+[V:V2] %%MIDI program 60
+!ff! [DFB]4 [FAc]4 | [FBd]4 [FAc]4 | [GBd]4 [EGc]4 | [FAc]6 [EA]2 |
+[DFB]4 [FBd]4 | [GBe]4 [FBd]4 | [EGc]4 [DFB]4 | [EGc]4 [FAc]4 |
+[FBd]4 [GBd]4 | [FAc]4 [FBd]4 | [GBe]4 [GBd]4 | [EGc]4 [FAc]4 |
+[GBe]4 [EGc]4 | [FBd]4 [DFB]4 | [EGc]4 [FAc]4 | [DFB]6 z2 |
+[V:V3]
+!ff! B,DFb d'bfd | F,CFa c'afc | G,DGb c,Gce | F,CFa c'afc |
+B,DFb d'bfd | E,B,Eg B,DFb | C,G,Ce D,B,Df | C,G,Ce F,CFa |
+B,DFb G,DGb | F,CFa B,DFb | E,B,Eg G,DGb | C,G,Ce F,CFa |
+E,B,Eg C,G,Ce | D,B,Df B,,F,Bd | C,G,Ce F,CFa | [B,DFb]6 z2 |
+[V:V4] %%MIDI program 57
+!ff! B,,2 F,2 B,2 F,2 | A,,2 F,2 A,2 F,2 | G,,2 D,2 C,2 G,2 | F,,2 C,2 F,2 E,2 |
+D,2 B,,2 B,,,2 D,2 | E,,2 B,,2 F,,2 D,2 | G,,2 E,2 B,,2 D,2 | C,2 G,,2 F,,2 F,2 |
+B,,2 F,2 G,,2 D,2 | F,,2 C,2 B,,2 D,2 | E,,2 B,,2 G,,2 D,2 | C,,2 G,,2 F,,2 A,,2 |
+E,,2 B,,2 C,,2 G,,2 | D,,2 B,,2 G,,2 D,2 | C,,2 G,,2 F,,2 C,2 | B,,,2 F,,2 B,,2 z2 |
+
+% =============================================================================
+% [Section C] 1:40 - 2:16 (Bars 43-58): Virtuoso Chamber Scherzo & Build-up (Q: 1/4=114)
+% Rapid Woodwind & String Interplay Ascending to the Apex
+% =============================================================================
+[V:V1] [Q: 1/4=114] %%MIDI program 73
+z4 !mp! f2 ed | c2 B2 G2 AB | c2 de f2 ga | b2 a2 g2 f2 |
+!mf! e2 dc d2 B2 | c2 BA B2 G2 | A2 Bc d2 ef | g2 f2 e2 d2 |
+% 2:00 (Bars 51-58): Solo Violin & Flute Rapid 16th-Note Ascent
+!f! Bcde fedc | defg agfe | fgab c'bag | abc'd' e'd'c'b |
+!ff! c'd'e'f' g'f'e'd' | d'e'f'g' a'g'f'e' | f'g'a'b' a'g'f'e' | d'c'ba bagf |
+[V:V2] %%MIDI program 71
+!mp! bagf edcB | AGFE DCB,D | FGAF Bcde | d2 c2 B2 A2 |
+!mf! G2 FE F2 D2 | E2 DC D2 B,2 | C2 DE F2 GA | B2 A2 G2 F2 |
+!f! DEFG AGFE | FGAB cBAG | ABcd edcB | cdef gfed |
+!ff! efga bagf | fgab c'bag | abc'd' c'bag | fedc dcBA |
+[V:V3]
+!mp! B,DFB dBFB | E,B,EG BGEG | F,CFA cAFA | G,DGB dBGB |
+!mf! C,G,CE B,,F,B,D | A,,E,A,C G,,D,G,B, | F,,C,F,A, B,,F,B,D | E,B,EG F,CFA |
+!f! B,DFB dBFB | D,A,DF AFDF | G,DGB dBGB | C,G,CE GECE |
+!ff! E,B,EG BGEG | F,CFA cAFA | G,DGB A,EAc | B,DFB F,CFA |
+[V:V4] %%MIDI program 42
+!p! B,,2 z2 z4 | E,2 z2 z4 | F,2 z2 z4 | G,2 z2 D,2 z2 |
+!mp! C,2 z2 B,,2 z2 | A,,2 z2 G,,2 z2 | F,,2 z2 B,,2 z2 | E,2 C,2 F,2 F,,2 |
+!f! B,,2 D,2 F,2 D,2 | D,,2 A,,2 D,2 A,,2 | G,,2 B,,2 D,2 B,,2 | C,2 E,2 G,2 E,2 |
+!ff! E,,2 G,,2 B,,2 G,,2 | F,,2 A,,2 C,2 A,,2 | G,,2 B,,2 A,,2 C,2 | B,,2 D,2 F,2 F,,2 |
+
+% =============================================================================
+% [Section D] 2:16 - 2:45 (Bars 59-70): Epic Choir & Orchestra Climax (Q: 1/4=108)
+% Full Cathedral Choir ("Ah") + Brass + Soaring Strings (-3 x -3 = +9)
+% =============================================================================
+[V:V1] [Q: 1/4=108] %%MIDI program 52
+!fff! b'4 f'3 d' | g'3 f' e'2 d'2 | c'3 d' e'2 g'2 | f'4- f'2 d'2 |
+e'3 f' g'2 b'2 | a'3 g' f'2 d'2 | e'3 d' c'2 b2 | c'4- c'2 f'2 |
+b'4 a'3 g' | f'3 e' d'2 B2 | e'3 d' c'2 a2 | b8 |
+[V:V2] %%MIDI program 48
+!fff! [bd']4 [df]3 [Bd] | [eg]3 [df] [ce]2 [Bd]2 | [Ac]3 [Bd] [ce]2 [eg]2 | [df]4- [df]2 [Bd]2 |
+[eg]3 [fa] [gb]2 [eg]2 | [fa]3 [eg] [df]2 [Bd]2 | [ce]3 [Bd] [Ac]2 [GB]2 | [Ac]4- [Ac]2 [fa]2 |
+[db]4 [ca]3 [Bg] | [Af]3 [Ge] [Fd]2 [DB]2 | [Ge]3 [Fd] [Ec]2 [CA]2 | [DB]8 |
+[V:V3]
+!fff! B,DFb d'bfd | E,B,Eg bgeB | F,CFa c'afc | B,DFb d'bfd |
+E,B,Eg bgeB | D,B,Df bfdB | C,G,Ce gecG | F,CFa c'afc |
+G,DGb d'bgd | D,A,Da d'afA | E,B,Eg F,CFa | B,DFb d'bfd |
+[V:V4] %%MIDI program 57
+!fff! B,,,2 F,,2 B,,2 D,2 | E,,2 B,,2 E,2 G,2 | F,,2 C,2 F,2 A,2 | B,,2 F,2 B,2 A,2 |
+G,,2 D,2 G,2 B,2 | D,,2 A,,2 D,2 F,2 | C,,2 G,,2 C,2 E,2 | F,,2 C,2 F,2 E,2 |
+G,,2 D,2 G,2 B,2 | D,,2 A,,2 D,2 F,2 | E,,2 B,,2 F,,2 C,2 | [B,,,B,,]8 |
+
+% =============================================================================
+% [Coda] 2:45 - 2:57 (Bars 71-75): Tranquil Morning Light Resolution (Q: 1/4=72)
+% Solo Flute, Oboe & Final Harp Arpeggio Dissolving into Silence
+% =============================================================================
+[V:V1] [Q: 1/4=72] %%MIDI program 73
+!mp! f3 e d2 c2 | B4- B2 z2 | !p! d6 c2 | !pp! B8- | B8 |]
+[V:V2] %%MIDI program 68
+!mp! d3 c B2 A2 | G4 F4 | !p! F6 E2 | !pp! D8- | D8 |]
+[V:V3]
+!mp! E,B,EG F,CFA | G,DGB D,A,DF | !p! E,B,EG F,CFA |
+!pp! (3B,DF (3Bdf (3bfd' (3f'd'b | [B,DFb]8 |]
+[V:V4] %%MIDI program 42
+!mp! E,4 F,4 | G,4 D,4 | !p! E,4 F,4 | !pp! B,,8- | B,,8 |]
