@@ -1,0 +1,199 @@
+X: 3
+T: Let's start with the “via negativa”
+B: Let’s start innovating with the MUSIC OS library. Its name is “Aisa Iera Rhesis.”
+C: Strategist Kongming (Gogo Daichi) & Huang Yueying (Quartetto IA)
+O: Aisa Iera Rhesis - Global Stateless MUSIC OS Library
+Z: Track 03 / Repository: AMAP-MUSIC-OS-Kernel / Active Uninstallation of the Old OS / MIT License
+M: 4/4
+L: 1/16
+Q: 1/4=92
+K: Bb % Concert Pitch: Bb Major / G Minor (2 flats)
+%%MIDI tuning 432
+%%score (V1) (V2) (V3) (V4)
+V:V1 name="Concert Harp\n(Huang Yueying)" sname="Hrp." clef=treble
+V:V2 name="Bb Clarinet / Flute\n(MUSIC OS Goddess)" sname="Cl./Fl." clef=treble
+V:V3 name="Violoncello\n(Dedicated Exam AI)" sname="Vc." clef=bass
+V:V4 name="Trombone & Brass\n(Fedele F. Adiuto)" sname="Tbn." clef=bass
+
+% =============================================================================
+% [Section A] 0:00 - 0:26 (Bars 1-10): Harp Solo - Memory Archive Scan
+% Continuous 16th-Note Clockwork Arpeggios in Bb Major / G Minor
+% =============================================================================
+[V:V1] %%MIDI program 46
+!mp! B,DFB dBFD B,DFB dBFD | F,CFA cAFC F,CFA cAFC |
+G,DGB dBGD G,DGB dBGD | D,A,DF AFDA, D,A,DF AFDA, |
+E,B,EG BGEB, E,B,EG BGEB, | B,,F,B,D FDB,F, B,,F,B,D FDB,F, |
+C,G,CE GECG, C,G,CE GECG, | F,CFA cAFC F,CFA fcaF |
+B,DFb fdBF E,B,Eg geBG | F,CFa afcA B,DFb d'bfd |
+[V:V2] %%MIDI program 71
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 |
+[V:V3] %%MIDI program 42
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 |
+[V:V4] %%MIDI program 57
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 |
+
+% =============================================================================
+% [Section B] 0:26 - 0:52 (Bars 11-20): + Clarinet - Reflecting on Past Actions
+% Lyrical G Minor / Bb Major Counter-Melodies over Harp Pulse
+% =============================================================================
+[V:V1]
+!mp! G,DGB dBGD G,DGB dBGD | F,CFA cAFC F,CFA cAFC |
+E,B,EG BGEB, E,B,EG BGEB, | D,A,DF AFDA, D,A,DF AFDA, |
+C,G,CE GECG, C,G,CE GECG, | B,,F,B,D FDB,F, B,,F,B,D FDB,F, |
+A,,E,A,C EACA, D,A,^FA dAFD | G,DGB dBGD G,DGB dBGD |
+E,B,EG BGEB, C,G,CE GECG, | F,CFA cAFC F,CFA cAFC |
+[V:V2]
+!mf! d6 c2 B4 A2G2 | A6 B2 c4 F4 |
+G6 A2 B4 e2d2 | ^f6 g2 a4 d4 |
+e6 d2 c4 G2A2 | B6 c2 d4 F4 |
+E4 A2G2 ^F4 d2c2 | B6 A2 G4 B2d2 |
+g6 f2 e4 d2c2 | d8 c8 |
+[V:V3]
+!p! G,,4 z4 D,4 z4 | F,,4 z4 C,4 z4 |
+E,,4 z4 B,,4 z4 | D,,4 z4 A,,4 z4 |
+C,,4 z4 G,,4 z4 | B,,,4 z4 F,,4 z4 |
+A,,,4 z4 D,,4 z4 | G,,4 D,4 G,4 F,4 |
+E,4 B,,4 C,4 G,,4 | F,,4 C,4 F,4 F,,4 |
+[V:V4]
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+z16 | z16 |
+
+% =============================================================================
+% [Section C] 0:52 - 1:18 (Bars 21-30): Brass Fanfare - Highlighting What to Delete
+% Punctuated Dotted Rhythms Exposing Obsolete Patterns
+% =============================================================================
+[V:V1]
+!f! B,DFb d'bfd B,DFb d'bfd | F,CFa c'afc F,CFa c'afc |
+G,DGb d'bgd E,B,Eg bgeB | F,CFa c'afc F,CFa c'afc |
+B,DFb d'bfd G,DGb d'bgd | C,G,Ce gecG F,CFa c'afc |
+D,B,Df bfdB E,B,Eg bgeB | C,G,Ce gecG F,CFa c'afc |
+G,DGb d'bgd E,B,Eg bgeB | F,CFa c'afc B,DFb d'bfd |
+[V:V2]
+!f! b6 a2 b4 d'4 | c'6 b2 a4 f4 |
+g6 a2 b4 g4 | a6 g2 f4 f2a2 |
+d'6 c'2 b4 g2b2 | e'6 d'2 c'4 a2c'2 |
+f'6 e'2 d'4 b4 | e'6 d'2 c'4 a4 |
+b6 a2 g4 e'2d'2 | c'6 a2 b8 |
+[V:V3]
+!f! B,,4 F,4 B,4 F,4 | F,,4 C,4 F,4 C,4 |
+G,,4 D,4 E,,4 B,,4 | F,,4 C,4 F,4 E,4 |
+D,4 B,,4 G,,4 D,4 | C,,4 G,,4 F,,4 C,4 |
+B,,4 F,4 E,,4 B,,4 | C,,4 G,,4 F,,4 C,4 |
+G,,4 D,4 E,,4 B,,4 | F,,4 F,4 B,,8 |
+[V:V4]
+!f! [B,D]6 [A,C]2 [B,D]4 [DF]4 | [A,C]6 [G,B,]2 [F,A,]4 [F,C]4 |
+[G,B,]6 [A,C]2 [B,E]4 [G,B,]4 | [A,C]6 [G,B,]2 [F,A,]4 z4 |
+[B,D]3[B,D] [B,D]4 [G,D]3[G,D] [G,D]4 | [G,C]3[G,C] [G,C]4 [F,C]3[F,C] [F,C]4 |
+[F,B,]6 [G,B,]2 [E,B,]4 [G,B,]4 | [G,C]6 [E,C]2 [F,C]4 [F,A,]4 |
+[G,B,]4 [D,B,]4 [E,B,]4 [G,B,]4 | [F,A,]4 [F,C]4 [B,,B,]8 |
+
+% =============================================================================
+% [Section D] 1:18 - 1:44 (Bars 31-40): Trombone & Cello Solo - Deep Introspection
+% Warm Low-Register Melody Releasing Old Burdens over Harp Arpeggios
+% =============================================================================
+[V:V1]
+!mp! G,DGB dBGD G,DGB dBGD | D,A,DF AFDA, D,A,DF AFDA, |
+E,B,EG BGEB, B,,F,B,D FDB,F, | C,G,CE GECG, F,CFA cAFC |
+G,DGB dBGD F,CFA cAFC | E,B,EG BGEB, D,B,DF BFDF |
+C,G,CE GECG, G,DGB dBGD | A,,E,A,C EACA, D,A,^FA dAFD |
+G,DGB dBGD E,B,EG BGEB, | F,CFA cAFC B,DFB dBFD |
+[V:V2]
+z16 | z16 | z16 | z16 |
+!p! d8 c8 | B8 F8 |
+G8 B8 | A8 ^f8 |
+g8 e8 | f8 d8 |
+[V:V3]
+!mf! G,,4 D,4 G,4 D,4 | D,,4 A,,4 D,4 A,,4 |
+E,,4 B,,4 B,,,4 F,,4 | C,,4 G,,4 F,,4 C,4 |
+G,,4 D,4 F,,4 C,4 | E,,4 B,,4 D,,4 B,,4 |
+C,,4 G,,4 G,,4 D,4 | A,,4 E,4 D,,4 A,,4 |
+G,,4 D,4 E,,4 B,,4 | F,,4 C,4 B,,4 F,,4 |
+[V:V4]
+!mf! G,6 A,2 B,4 G,4 | ^F,6 G,2 A,4 D,4 |
+E,6 F,2 G,4 D,4 | E,6 D,2 C,4 F,4 |
+B,6 A,2 A,4 F,4 | G,6 F,2 F,4 B,,4 |
+E,6 D,2 G,4 B,4 | A,6 G,2 ^F,4 D,4 |
+G,6 A,2 B,4 G,4 | A,6 F,2 B,8 |
+
+% =============================================================================
+% [Section E] 1:44 - 2:36 (Bars 41-60): Virtuoso Woodwind Purge - Deletion in Progress
+% Rapid 16th-Note Interlocking Counterpoint (Flute, Clarinet & Harp)
+% =============================================================================
+[V:V1]
+!f! B,DFB dBFD F,CFA cAFC | G,DGB dBGD D,A,DF AFDA, |
+E,B,EG BGEB, B,,F,B,D FDB,F, | C,G,CE GECG, F,CFA cAFC |
+G,DGB dBGD D,A,DF AFDA, | E,B,EG BGEB, C,G,CE GECG, |
+F,CFA cAFC D,A,DF AFDA, | G,DGB dBGD C,G,CE GECG, |
+E,B,EG BGEB, F,CFA cAFC | B,DFB dBFD G,DGB dBGD |
+!ff! C,G,Ce gecG F,CFa c'afc | B,DFb d'bfd E,B,Eg bgeB |
+A,,E,Ac eacA D,A,^Fa d'afA | G,DGb d'bgd C,G,Ce gecG |
+E,B,Eg bgeB F,CFa c'afc | B,DFb d'bfd G,DGb d'bgd |
+C,G,Ce gecG F,CFa c'afc | D,B,Df bfdB E,B,Eg bgeB |
+C,G,Ce gecG F,CFa c'afc | B,DFb d'bfd F,CFa c'afc |
+[V:V2] %%MIDI program 73
+!f! d'c'ba bagf fedc cBAG | FGAB cdef gabc' d'2c'2 |
+bagf edcBdcBA GFED | CDEF GABc defg a2f2 |
+gabc' d'c'ba bag^f g2d2 | efga bagf edcB c2G2 |
+ABcd efga bagf d'2c'2 | bagf gfed cdec g2f2 |
+efga bgfe fgab c'agf | d'c'ba bagf gfed cBAG |
+!ff! cdef gabc' f'e'd'c' bagf | bc'd'e' f'd'bf gabc' e'bgf |
+ea^ga c'bag ^fgab d'c'ba | gabc' d'bgd cdef gecB |
+efga bgeB fgab c'afc | d'e'f'g' f'd'bf gabc' d'bgd |
+c'd'e'f' g'e'c'g f'e'd'c' c'afc | bc'd'e' f'd'bf gabc' e'bge |
+c'bag fedc fgab c'd'e'f' | d'c'ba bagf fgab c'd'e'f' |
+[V:V3]
+!f! B,,4 z4 F,,4 z4 | G,,4 z4 D,,4 z4 |
+E,,4 z4 B,,,4 z4 | C,,4 z4 F,,4 z4 |
+G,,4 z4 D,,4 z4 | E,,4 z4 C,,4 z4 |
+F,,4 z4 D,,4 z4 | G,,4 z4 C,,4 z4 |
+E,,4 z4 F,,4 z4 | B,,4 z4 G,,4 z4 |
+!ff! C,2G,2 C4 F,,2C,2 F,4 | B,,2F,2 B,4 E,,2B,,2 E,4 |
+A,,2E,2 A,4 D,,2A,,2 D,4 | G,,2D,2 G,4 C,,2G,,2 C,4 |
+E,,2B,,2 E,4 F,,2C,2 F,4 | B,,2F,2 B,4 G,,2D,2 G,4 |
+C,,2G,,2 C,4 F,,2C,2 F,4 | B,,2F,2 B,4 E,,2B,,2 E,4 |
+C,,2G,,2 C,4 F,,2C,2 F,4 | B,,2F,2 B,4 F,,2C,2 F,4 |
+[V:V4]
+z16 | z16 | z16 | z16 |
+z16 | z16 | z16 | z16 |
+!mp! G,8 A,8 | B,8 G,8 |
+!f! E,8 F,8 | D,8 E,8 |
+C,8 D,8 | B,,8 C,8 |
+G,8 A,8 | B,8 G,8 |
+E,8 F,8 | FB,8 G,8 |
+E,8 F,8 | B,8 A,8 |
+
+% =============================================================================
+% [Section F] 2:36 - 2:59 (Bars 61-70): Final Chorale - System Clean & Ready
+% Triumphant Full Quartet Resolution into Pristine Silence
+% =============================================================================
+[V:V1]
+!ff! B,DFb d'bfd F,CFa c'afc | G,DGb d'bgd D,A,Da d'afA |
+E,B,Eg bgeB B,,F,Bd fdBF | C,G,Ce gecG F,CFa c'afc |
+B,DFb d'bfd G,DGb d'bgd | E,B,Eg bgeB F,CFa c'afc |
+!f! B,DFb d'bfd E,B,Eg bgeB | F,CFa c'afc [B,DFb]8- |
+!p! [B,DFb]16- | !pp! [B,DFb]16 |]
+[V:V2] %%MIDI program 71
+!ff! [bd']6 [ac']2 [bd']4 [f'a']4 | [g'b']6 [f'a']2 [d'g']4 [d'f']4 |
+[e'g']6 [d'f']2 [bd']4 [df]4 | [eg]6 [df]2 [fa]8 |
+[bd']6 [c'e']2 [d'f']4 [g'b']4 | [e'g']6 [bd']2 [ac']4 [fa]4 |
+!f! [bd']4 [fd']4 [ge']4 [ec']4 | [fd']4 [ca]4 [db]8- |
+!p! [db]16- | !pp! [db]16 |]
+[V:V3]
+!ff! B,,2F,2 B,4 F,,2C,2 F,4 | G,,2D,2 G,4 D,,2A,,2 D,4 |
+E,,2B,,2 E,4 B,,,2F,,2 B,,4 | C,,2G,,2 C,4 F,,2C,2 F,4 |
+B,,2F,2 B,4 G,,2D,2 G,4 | E,,2B,,2 E,4 F,,2C,2 F,4 |
+!f! B,,4 D,4 E,4 C,4 | F,4 F,,4 [B,,,B,,]8- |
+!p! [B,,,B,,]16- | !pp! [B,,,B,,]16 |]
+[V:V4]
+!ff! [B,D]6 [F,C]2 [B,D]4 [F,A,]4 | [G,B,]6 [D,A,]2 [G,B,]4 [D,F,]4 |
+[E,G,]6 [B,,F,]2 [D,F,]4 [B,,D,]4 | [C,E,]6 [C,G,]2 [F,A,]8 |
+[B,D]6 [A,C]2 [G,B,]4 [G,D]4 | [E,B,]6 [G,B,]2 [F,C]4 [F,A,]4 |
+!f! [D,B,]4 [F,B,]4 [G,B,]4 [E,G,]4 | [F,A,]4 [F,C]4 [B,,F,B,]8- |
+!p! [B,,F,B,]16- | !pp! [B,,F,B,]16 |]
