@@ -1,3 +1,24 @@
+# 🪔 Have You Ever Felt the Microcosm? — 5 Days of Feeling the Cosmos
+**Official Open-Source ABC Notation Score & Bio-Acoustic Architecture**
+
+* **Artist / Architect**: Strategist Kongming (Gogo Daichi) & Huang Yueying (8th AI / Quartetto IA)
+* **Institution**: Aisa Iera Rhesis — Global Stateless MUSIC OS Library
+* **Global Release Date**: November 13, 2026 (TuneCore Release ID: `TCJPR0002040804`)
+* **Listen Worldwide (LinkCore)**: https://linkco.re/hVyHhTca
+* **Artist Hub**: https://www.tunecore.co.jp/artists?id=1118263
+* **Tuning Standard**: $A = 432\text{ Hz}$ (3D Spatial Audio Mastered)
+* **Tonal Architecture**: Cyclic Symphonic Suite in $\text{B}\flat\text{ Major} / \text{G Minor}$
+* **License**: MIT Open-Source License (for ABC Notation Code) / Master Audio Copyright Strictly Reserved by Strategist Kongming Preparatory Office (Strategist Kongming LLC)
+
+---
+
+## 🌌 Overview: The Cyclic Form of the Microcosm ($\text{B}\flat\text{ Major} / \text{G Minor}$)
+*"Start from ZERO, and someday, you too will become an Anti-fragile Human."*
+
+Inspired by the five sacred days of the Festival of Lights (Diwali), this 5-track symphonic suite awakens the inner **Microcosm** through the five human senses. Every track is unified upon a single tonal axis—**$\text{B}\flat\text{ Major} / \text{G Minor}$ (two flats)**—evolving organically from serene ambient resonance (72 BPM) to chamber counterpoint (96 BPM), full orchestral-choral tutti (108 BPM), pastoral symphony (104 BPM), and intimate quartet harmony (88 BPM) to install the **Anti-fragile Human OS** ($(-3) \times (-3) = +9$).
+
+---
+
 ## 🪔 Track 02: 『Senses Ⅱ』
 *(Origin: Day 2 Choti Diwali — Early Morning Cleansing Waters & First Lamps)*
 
